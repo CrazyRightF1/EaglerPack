@@ -1,6 +1,6 @@
 READ BEFORE YOU DOWNLOAD:
 
-This is the official repository of EaglercraftX u47, If the version is outdated the client will let you know and make you download a new version (CURRENT NEW u50)
+This is the official repository of EaglercraftX u47, If the version is outdated the client will let you know and make you download a new version (CURRENT NEW u52)
 This also comes with the EagXSPRelay and the EaglercraftXBungee Plugin if you are creating an 
 Eaglercraft server
 
